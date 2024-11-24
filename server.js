@@ -72,5 +72,3 @@ const PORT = process.env.PORT || 3301;
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
-// email.js
-// Displaying email.js
